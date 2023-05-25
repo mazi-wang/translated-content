@@ -9,7 +9,7 @@ slug: Web/CSS/text-indent
 
 {{EmbedInteractiveExample("pages/css/text-indent.html")}}
 
-## Syntax
+## 语法
 
 ```
 /* <length> 长度值 */
@@ -30,7 +30,7 @@ text-indent: initial;
 text-indent: unset;
 ```
 
-### Values
+### 值
 
 - `<length>`
   - : `使用固定的<length>值来指定文本的缩进。允许使用负值。查阅可能`的 {{cssxref("&lt;length&gt;")}} 单位。
